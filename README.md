@@ -10,6 +10,6 @@ correlation plots: scatter and heatmap. The application emphasizes on freedom of
 </div>
 
 <div>
-  <em><b>3D Scatter Plot</b></em>
-  <img src = "https://github.com/samlubna/Scatter3D/blob/main/images/3DScatter.png">
+  <em><b>3D Heatmap Plot</b></em>
+  <img src = "https://github.com/samlubna/Scatter3D/blob/main/images/3DHeatmap.png">
 </div>
